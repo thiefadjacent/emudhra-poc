@@ -8,6 +8,8 @@ trivial search, then proves each recovery by signing under the published key.
 
 The recovered private keys are the scalars `4, 56, 66, 115, 155, 156, 230, 237`.
 
+Currently associated with **CVE-2026-111943**.
+
 ## Requirements
 
 - Python 3.10+
